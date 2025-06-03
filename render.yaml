@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: look
+    name: vvv
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
